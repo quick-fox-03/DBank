@@ -9,7 +9,7 @@ Motoko is a modern, general-purpose programming language you can use specificall
 
 Motoko is designed to be approachable for programmers who have some basic familiarity with object-oriented and/or functional programming idioms in either JavaScript, or another modern programming language, such as Rust, Swift, TypeScript, C#, or Java.
 # ICP
-Internet Computer, which hosts decentralized serverless compute. A simpler, cyber-attack resistant decentralised platform for decentralised apps.
+Internet Computer Blockchain, which hosts decentralized serverless compute. A simpler, cyber-attack resistant decentralised platform for decentralised apps.
 # Dbank structure.
 The main code for this, resides within src/dbank/main.mo
 Motoko consists of actors, which are the primary building blocks in Motoko, representing units of deployment that can maintain state and execute concurrent actions.
