@@ -1,8 +1,8 @@
 # DBank
-DBank is decentralised finance assisstance app created using Motoko. 
+DBank is a decentralised blockchain-based interest calculator created using Motoko. 
 =======
 # dbank
-dbank stands for decentralised bank, a finance assistance app that can calculate compoung interest on a given principal amount, rate of interest and time period. It was coded in Motoko.
+dbank stands for decentralised bank, a blockchain-based interest calculator that can calculate compoung interest on a given principal amount, rate of interest and time period. It was coded in Motoko.
 
 # Motoko
 Motoko is a modern, general-purpose programming language you can use specifically to author ICP canister smart contracts. Although aimed primarily at ICP canister development, its design is general enough to support future compilation to other targets.
